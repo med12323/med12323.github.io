@@ -1,1 +1,1 @@
-#Funny site
+# Funny site
