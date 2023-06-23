@@ -1,4 +1,7 @@
 # Funny site
-~~strkiethrou~~
+<br>
+~~strkiethrou~~ 
+<br>
 `g`
+<br>
 **BOLD**
